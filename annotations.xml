@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>1015607</id>
+      <size>122</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-08 22:04:19.781204+00:00</created>
+      <updated>2024-07-08 22:36:36.546459+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>121</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1017565</id>
+          <start>0</start>
+          <stop>121</stop>
+          <url>https://app.cvat.ai/api/jobs/1015607</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>arnav7</username>
+        <email>2arnavpal@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Mango</name>
+          <color>#e080e0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Watermelon</name>
+          <color>#639410</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Coconut</name>
+          <color>#64371e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Green apple</name>
+          <color>#98d310</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Red apple</name>
+          <color>#981000</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Kiwi</name>
+          <color>#766420</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Banana</name>
+          <color>#fde632</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Lemon</name>
+          <color>#fdd51c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Lime</name>
+          <color>#227600</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Orange</name>
+          <color>#fea600</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Plum</name>
+          <color>#790311</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pear</name>
+          <color>#ebdc2a</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Passion fruit</name>
+          <color>#843222</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Peach</name>
+          <color>#ed5521</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Strawberry</name>
+          <color>#d10500</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pineapple</name>
+          <color>#ce8d20</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-07-08 22:36:56.772925+00:00</dumped>
+  </meta>
+  <image id="0" name="image0.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="690.06" ytl="375.16" xbr="843.50" ybr="509.70" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="image1.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="519.54" ytl="462.88" xbr="619.96" ybr="555.73" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="image10.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="523.33" ytl="375.73" xbr="631.33" ybr="493.20" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="image100.jpg" width="1920" height="1080">
+  </image>
+  <image id="4" name="image101.jpg" width="1920" height="1080">
+  </image>
+  <image id="5" name="image102.jpg" width="1920" height="1080">
+  </image>
+  <image id="6" name="image103.jpg" width="1920" height="1080">
+    <box label="Coconut" source="manual" occluded="0" xtl="832.17" ytl="517.83" xbr="962.90" ybr="631.52" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="image104.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="464.59" ytl="652.36" xbr="566.90" ybr="752.78" z_order="0">
+    </box>
+    <box label="Orange" source="manual" occluded="0" xtl="1027.14" ytl="536.62" xbr="1139.11" ybr="614.46" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="image105.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="540.38" ytl="442.04" xbr="644.59" ybr="529.20" z_order="0">
+    </box>
+    <box label="Green apple" source="manual" occluded="0" xtl="684.38" ytl="555.73" xbr="784.80" ybr="658.04" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="image106.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="794.27" ytl="534.90" xbr="951.50" ybr="684.57" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="image107.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="669.03" ytl="572.60" xbr="811.30" ybr="692.15" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="image108.jpg" width="1920" height="1080">
+  </image>
+  <image id="12" name="image109.jpg" width="1920" height="1080">
+    <box label="Mango" source="manual" occluded="0" xtl="568.80" ytl="430.11" xbr="663.54" ybr="540.00" z_order="0">
+    </box>
+    <box label="Peach" source="manual" occluded="0" xtl="466.48" ytl="635.30" xbr="566.90" ybr="720.57" z_order="0">
+    </box>
+    <box label="Green apple" source="manual" occluded="0" xtl="1070.91" ytl="576.57" xbr="1158.06" ybr="675.09" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="image11.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="784.80" ytl="347.30" xbr="928.80" ybr="493.20" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="image110.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="972.40" ytl="275.30" xbr="1055.70" ybr="366.25" z_order="0">
+    </box>
+    <box label="Banana" source="manual" occluded="0" xtl="640.80" ytl="584.15" xbr="799.96" ybr="665.62" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="image111.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="616.17" ytl="305.62" xbr="710.90" ybr="396.57" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="image112.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="568.80" ytl="354.90" xbr="656.00" ybr="489.41" z_order="0">
+    </box>
+    <box label="Coconut" source="manual" occluded="0" xtl="803.70" ytl="295.58" xbr="906.06" ybr="396.00" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="image113.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="663.54" ytl="310.74" xbr="758.27" ybr="414.95" z_order="0">
+    </box>
+    <box label="Coconut" source="manual" occluded="0" xtl="678.61" ytl="204.20" xbr="782.90" ybr="312.20" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="image114.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="758.27" ytl="462.32" xbr="858.69" ybr="543.79" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="image115.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="1017.85" ytl="477.47" xbr="1114.48" ybr="549.47" z_order="0">
+    </box>
+    <box label="Banana" source="manual" occluded="0" xtl="472.20" ytl="587.37" xbr="574.48" ybr="750.30" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="image116.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="1057.60" ytl="636.60" xbr="1192.17" ybr="765.47" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="image117.jpg" width="1920" height="1080">
+  </image>
+  <image id="22" name="image118.jpg" width="1920" height="1080">
+  </image>
+  <image id="23" name="image119.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="847.33" ytl="445.83" xbr="936.38" ybr="551.94" z_order="0">
+    </box>
+    <box label="Mango" source="manual" occluded="0" xtl="511.96" ytl="485.62" xbr="614.27" ybr="597.41" z_order="0">
+    </box>
+    <box label="Kiwi" source="manual" occluded="0" xtl="712.80" ytl="517.83" xbr="805.60" ybr="603.10" z_order="0">
+    </box>
+    <box label="Coconut" source="manual" occluded="0" xtl="1017.85" ytl="434.46" xbr="1142.90" ybr="551.90" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="image12.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="784.80" ytl="388.99" xbr="862.48" ybr="472.36" z_order="0">
+    </box>
+    <box label="Green apple" source="manual" occluded="0" xtl="1082.27" ytl="686.46" xbr="1178.90" ybr="762.25" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="image120.jpg" width="1920" height="1080">
+    <box label="Orange" source="manual" occluded="0" xtl="661.64" ytl="606.88" xbr="781.01" ybr="699.73" z_order="0">
+    </box>
+    <box label="Green apple" source="manual" occluded="0" xtl="788.59" ytl="339.73" xbr="885.22" ybr="445.83" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="image121.jpg" width="1920" height="1080">
+  </image>
+  <image id="27" name="image122.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="815.10" ytl="460.99" xbr="959.12" ybr="584.15" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="image13.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="932.59" ytl="424.99" xbr="1025.43" ybr="515.94" z_order="0">
+    </box>
+    <box label="Pineapple" source="manual" occluded="0" xtl="487.30" ytl="457.20" xbr="635.10" ybr="644.78" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="image14.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="559.26" ytl="253.50" xbr="707.06" ybr="465.69" z_order="0">
+    </box>
+    <box label="Lemon" source="manual" occluded="0" xtl="1063.33" ytl="603.09" xbr="1163.75" ybr="690.25" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="image15.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="1213.01" ytl="529.20" xbr="1328.59" ybr="639.09" z_order="0">
+    </box>
+    <box label="Lemon" source="manual" occluded="0" xtl="974.27" ytl="377.62" xbr="1069.01" ybr="474.25" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="image16.jpg" width="1920" height="1080">
+  </image>
+  <image id="32" name="image17.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="714.69" ytl="406.04" xbr="809.43" ybr="495.09" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="image18.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="629.43" ytl="419.30" xbr="781.00" ybr="544.36" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="image19.jpg" width="1920" height="1080">
+    <box label="Banana" source="manual" occluded="0" xtl="697.64" ytl="445.83" xbr="796.17" ybr="540.57" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="image2.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="962.90" ytl="275.30" xbr="1091.75" ybr="436.36" z_order="0">
+    </box>
+    <box label="Kiwi" source="manual" occluded="0" xtl="563.12" ytl="407.94" xbr="663.54" ybr="489.41" z_order="0">
+    </box>
+    <box label="Lemon" source="manual" occluded="0" xtl="775.33" ytl="423.09" xbr="892.80" ybr="506.46" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="image20.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="532.80" ytl="491.30" xbr="633.22" ybr="587.94" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="image21.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="968.59" ytl="377.10" xbr="1142.90" ybr="541.89" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="image22.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="917.43" ytl="358.67" xbr="1120.17" ybr="495.09" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="image23.jpg" width="1920" height="1080">
+    <box label="Mango" source="manual" occluded="0" xtl="822.69" ytl="496.99" xbr="945.85" ybr="589.83" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="image24.jpg" width="1920" height="1080">
+  </image>
+  <image id="41" name="image25.jpg" width="1920" height="1080">
+    <box label="Coconut" source="manual" occluded="0" xtl="710.90" ytl="462.88" xbr="820.80" ybr="568.99" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="image26.jpg" width="1920" height="1080">
+  </image>
+  <image id="43" name="image27.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="532.80" ytl="474.25" xbr="610.48" ybr="567.09" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="image28.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="974.27" ytl="373.83" xbr="1086.06" ybr="468.57" z_order="0">
+    </box>
+    <box label="Mango" source="manual" occluded="0" xtl="555.50" ytl="445.64" xbr="657.90" ybr="565.20" z_order="0">
+    </box>
+    <box label="Lemon" source="manual" occluded="0" xtl="794.27" ytl="402.25" xbr="887.12" ybr="495.09" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="image29.jpg" width="1920" height="1080">
+    <box label="Banana" source="manual" occluded="0" xtl="709.01" ytl="203.30" xbr="813.22" ybr="326.46" z_order="0">
+    </box>
+    <box label="Mango" source="manual" occluded="0" xtl="629.43" ytl="400.36" xbr="712.80" ybr="529.20" z_order="0">
+    </box>
+    <box label="Lemon" source="manual" occluded="0" xtl="733.64" ytl="328.36" xbr="815.12" ybr="451.52" z_order="0">
+    </box>
+    <box label="Watermelon" source="manual" occluded="0" xtl="815.12" ytl="256.40" xbr="911.70" ybr="394.67" z_order="0">
+    </box>
+    <box label="Green apple" source="manual" occluded="0" xtl="919.33" ytl="294.25" xbr="1014.06" ybr="388.99" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="image3.jpg" width="1920" height="1080">
+    <box label="Banana" source="manual" occluded="0" xtl="705.22" ytl="468.57" xbr="798.06" ybr="595.52" z_order="0">
+    </box>
+    <box label="Mango" source="manual" occluded="0" xtl="517.64" ytl="421.20" xbr="635.12" ybr="502.67" z_order="0">
+    </box>
+    <box label="Orange" source="manual" occluded="0" xtl="1015.96" ytl="510.25" xbr="1120.20" ybr="608.80" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="image30.jpg" width="1920" height="1080">
+    <box label="Orange" source="manual" occluded="0" xtl="542.30" ytl="455.30" xbr="637.01" ybr="565.20" z_order="0">
+    </box>
+    <box label="Kiwi" source="manual" occluded="0" xtl="737.43" ytl="432.57" xbr="818.90" ybr="525.41" z_order="0">
+    </box>
+    <box label="Peach" source="manual" occluded="0" xtl="828.38" ytl="436.36" xbr="902.27" ybr="519.73" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="image31.jpg" width="1920" height="1080">
+    <box label="Mango" source="manual" occluded="0" xtl="510.06" ytl="531.09" xbr="614.27" ybr="618.25" z_order="0">
+    </box>
+    <box label="Coconut" source="manual" occluded="0" xtl="1019.75" ytl="419.30" xbr="1135.33" ybr="529.20" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="image32.jpg" width="1920" height="1080">
+    <box label="Banana" source="manual" occluded="0" xtl="692.00" ytl="474.30" xbr="817.00" ybr="616.36" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="image33.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="422.90" ytl="453.41" xbr="631.33" ybr="603.09" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="image34.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="665.40" ytl="614.50" xbr="771.54" ybr="707.30" z_order="0">
+    </box>
+    <box label="Watermelon" source="manual" occluded="0" xtl="919.33" ytl="339.70" xbr="1082.27" ybr="464.78" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="image35.jpg" width="1920" height="1080">
+  </image>
+  <image id="53" name="image36.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="532.80" ytl="409.83" xbr="614.27" ybr="506.46" z_order="0">
+    </box>
+    <box label="Orange" source="manual" occluded="0" xtl="710.90" ytl="398.46" xbr="815.12" ybr="496.99" z_order="0">
+    </box>
+    <box label="Lemon" source="manual" occluded="0" xtl="712.80" ytl="498.88" xbr="820.80" ybr="591.73" z_order="0">
+    </box>
+    <box label="Coconut" source="manual" occluded="0" xtl="820.80" ytl="417.41" xbr="934.48" ybr="531.09" z_order="0">
+    </box>
+    <box label="Pineapple" source="manual" occluded="0" xtl="943.96" ytl="417.41" xbr="1133.43" ybr="550.04" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="image37.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="561.22" ytl="313.20" xbr="674.90" ybr="411.73" z_order="0">
+    </box>
+    <box label="Peach" source="manual" occluded="0" xtl="976.17" ytl="453.41" xbr="1076.59" ybr="544.36" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="image38.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="885.20" ytl="443.90" xbr="978.06" ybr="529.20" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="image39.jpg" width="1920" height="1080">
+  </image>
+  <image id="57" name="image4.jpg" width="1920" height="1080">
+    <box label="Banana" source="manual" occluded="0" xtl="853.01" ytl="404.15" xbr="921.22" ybr="589.83" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="image40.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="714.69" ytl="479.94" xbr="818.90" ybr="599.30" z_order="0">
+    </box>
+    <box label="Pineapple" source="manual" occluded="0" xtl="818.90" ytl="414.95" xbr="940.17" ybr="615.79" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="image41.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="921.22" ytl="361.89" xbr="1017.85" ybr="433.89" z_order="0">
+    </box>
+    <box label="Kiwi" source="manual" occluded="0" xtl="820.80" ytl="272.84" xbr="911.75" ybr="367.58" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="image42.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="508.17" ytl="360.00" xbr="650.27" ybr="521.05" z_order="0">
+    </box>
+    <box label="Orange" source="manual" occluded="0" xtl="813.22" ytl="496.42" xbr="921.22" ybr="585.47" z_order="0">
+    </box>
+    <box label="Mango" source="manual" occluded="0" xtl="1012.17" ytl="462.32" xbr="1108.80" ybr="570.32" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="image43.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="837.85" ytl="468.00" xbr="932.59" ybr="555.16" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="image44.jpg" width="1920" height="1080">
+    <box label="Coconut" source="manual" occluded="0" xtl="515.75" ytl="504.00" xbr="633.22" ybr="627.16" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="image46.jpg" width="1920" height="1080">
+  </image>
+  <image id="64" name="image47.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="701.43" ytl="394.10" xbr="832.17" ybr="543.79" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="image48.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="513.85" ytl="454.74" xbr="686.27" ybr="634.74" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="image49.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="585.85" ytl="342.95" xbr="786.69" ybr="464.21" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="image5.jpg" width="1920" height="1080">
+    <box label="Mango" source="manual" occluded="0" xtl="727.96" ytl="475.58" xbr="826.48" ybr="593.05" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="image50.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="534.69" ytl="397.89" xbr="631.33" ybr="511.58" z_order="0">
+    </box>
+    <box label="Peach" source="manual" occluded="0" xtl="727.96" ytl="454.74" xbr="822.69" ybr="540.00" z_order="0">
+    </box>
+    <box label="Kiwi" source="manual" occluded="0" xtl="822.69" ytl="424.42" xbr="911.75" ybr="509.68" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="image51.jpg" width="1920" height="1080">
+    <box label="Coconut" source="manual" occluded="0" xtl="491.12" ytl="509.68" xbr="616.17" ybr="634.74" z_order="0">
+    </box>
+    <box label="Mango" source="manual" occluded="0" xtl="699.54" ytl="511.58" xbr="805.64" ybr="606.32" z_order="0">
+    </box>
+    <box label="Orange" source="manual" occluded="0" xtl="851.12" ytl="447.16" xbr="947.75" ybr="543.79" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="image52.jpg" width="1920" height="1080">
+    <box label="Mango" source="manual" occluded="0" xtl="716.59" ytl="394.10" xbr="813.22" ybr="528.63" z_order="0">
+    </box>
+    <box label="Banana" source="manual" occluded="0" xtl="527.12" ytl="500.21" xbr="610.48" ybr="640.42" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="image53.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="1006.48" ytl="443.37" xbr="1180.80" ybr="649.89" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="image54.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="508.17" ytl="475.60" xbr="637.01" ybr="566.53" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="image55.jpg" width="1920" height="1080">
+  </image>
+  <image id="74" name="image56.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="784.80" ytl="240.63" xbr="873.85" ybr="371.37" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="image57.jpg" width="1920" height="1080">
+    <box label="Orange" source="manual" occluded="0" xtl="805.64" ytl="401.68" xbr="913.64" ybr="502.10" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="image58.jpg" width="1920" height="1080">
+    <box label="Mango" source="manual" occluded="0" xtl="1014.06" ytl="416.84" xbr="1118.27" ybr="521.05" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="image59.jpg" width="1920" height="1080">
+  </image>
+  <image id="78" name="image6.jpg" width="1920" height="1080">
+  </image>
+  <image id="79" name="image60.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="534.69" ytl="471.79" xbr="646.48" ybr="570.32" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="image61.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="625.64" ytl="405.47" xbr="710.90" ybr="505.89" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="image62.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="682.48" ytl="452.84" xbr="834.06" ybr="594.95" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="image63.jpg" width="1920" height="1080">
+    <box label="Orange" source="manual" occluded="0" xtl="536.59" ytl="386.53" xbr="623.75" ybr="483.16" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="image64.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="782.90" ytl="396.00" xbr="936.38" ybr="594.95" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="image65.jpg" width="1920" height="1080">
+    <box label="Mango" source="manual" occluded="0" xtl="1021.64" ytl="452.84" xbr="1125.85" ybr="579.79" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="image66.jpg" width="1920" height="1080">
+    <box label="Banana" source="manual" occluded="0" xtl="837.85" ytl="380.84" xbr="913.64" ybr="545.68" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="image67.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="1084.17" ytl="684.00" xbr="1182.69" ybr="761.68" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="image68.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="1027.33" ytl="504.00" xbr="1120.17" ybr="583.58" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="image69.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="462.69" ytl="615.79" xbr="566.90" ybr="718.10" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="image7.jpg" width="1920" height="1080">
+    <box label="Orange" source="manual" occluded="0" xtl="530.90" ytl="458.53" xbr="621.85" ybr="566.53" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="image70.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="527.12" ytl="401.68" xbr="627.54" ybr="486.95" z_order="0">
+    </box>
+    <box label="Banana" source="manual" occluded="0" xtl="1224.38" ytl="659.37" xbr="1313.43" ybr="737.05" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="image71.jpg" width="1920" height="1080">
+    <box label="Orange" source="manual" occluded="0" xtl="834.06" ytl="450.95" xbr="945.85" ybr="551.37" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="image72.jpg" width="1920" height="1080">
+    <box label="Mango" source="manual" occluded="0" xtl="511.96" ytl="481.30" xbr="623.75" ybr="572.21" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="image73.jpg" width="1920" height="1080">
+    <box label="Orange" source="manual" occluded="0" xtl="1239.54" ytl="678.32" xbr="1339.96" ybr="763.58" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="image74.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="1000.80" ytl="483.16" xbr="1156.17" ybr="629.05" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="image75.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="701.43" ytl="490.74" xbr="830.27" ybr="695.37" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="image76.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="745.01" ytl="382.74" xbr="928.80" ybr="568.42" z_order="0">
+    </box>
+    <box label="Coconut" source="manual" occluded="0" xtl="871.96" ytl="693.47" xbr="1010.27" ybr="765.47" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="image77.jpg" width="1920" height="1080">
+  </image>
+  <image id="98" name="image78.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="483.50" ytl="615.79" xbr="580.17" ybr="704.84" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="image79.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="546.06" ytl="443.40" xbr="655.96" ybr="532.42" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="image8.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="981.90" ytl="327.79" xbr="1178.91" ybr="464.21" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="image80.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="610.48" ytl="361.89" xbr="710.90" ybr="477.47" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="image81.jpg" width="1920" height="1080">
+    <box label="Peach" source="manual" occluded="0" xtl="523.33" ytl="447.16" xbr="635.12" ybr="545.68" z_order="0">
+    </box>
+    <box label="Orange" source="manual" occluded="0" xtl="714.69" ytl="460.42" xbr="818.90" ybr="560.84" z_order="0">
+    </box>
+    <box label="Banana" source="manual" occluded="0" xtl="820.80" ytl="401.68" xbr="911.75" ybr="570.30" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="image82.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="993.22" ytl="450.95" xbr="1108.80" ybr="568.42" z_order="0">
+    </box>
+    <box label="Lemon" source="manual" occluded="0" xtl="906.06" ytl="702.95" xbr="1008.38" ybr="767.37" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="image83.jpg" width="1920" height="1080">
+  </image>
+  <image id="105" name="image84.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="695.70" ytl="432.00" xbr="849.22" ybr="562.74" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="image85.jpg" width="1920" height="1080">
+  </image>
+  <image id="107" name="image86.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="570.69" ytl="392.21" xbr="663.54" ybr="486.95" z_order="0">
+    </box>
+    <box label="Peach" source="manual" occluded="0" xtl="763.96" ytl="301.26" xbr="864.38" ybr="384.63" z_order="0">
+    </box>
+    <box label="Banana" source="manual" occluded="0" xtl="767.75" ytl="401.68" xbr="911.75" ybr="498.32" z_order="0">
+    </box>
+    <box label="Green apple" source="manual" occluded="0" xtl="974.27" ytl="363.79" xbr="1080.38" ybr="458.53" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="image87.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="561.20" ytl="436.36" xbr="644.59" ybr="565.20" z_order="0">
+    </box>
+    <box label="Mango" source="manual" occluded="0" xtl="743.12" ytl="430.67" xbr="841.64" ybr="542.46" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="image88.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="498.69" ytl="430.67" xbr="705.22" ybr="591.73" z_order="0">
+    </box>
+    <box label="Watermelon" source="manual" occluded="0" xtl="701.43" ytl="383.30" xbr="834.06" ybr="525.41" z_order="0">
+    </box>
+    <box label="Kiwi" source="manual" occluded="0" xtl="841.64" ytl="481.83" xbr="919.30" ybr="559.50" z_order="0">
+    </box>
+    <box label="Banana" source="manual" occluded="0" xtl="1042.48" ytl="424.99" xbr="1093.60" ybr="591.73" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="image89.jpg" width="1920" height="1080">
+    <box label="Coconut" source="manual" occluded="0" xtl="496.80" ytl="470.46" xbr="616.17" ybr="580.36" z_order="0">
+    </box>
+    <box label="Mango" source="manual" occluded="0" xtl="652.17" ytl="250.11" xbr="746.90" ybr="356.21" z_order="0">
+    </box>
+    <box label="Lemon" source="manual" occluded="0" xtl="663.35" ytl="356.02" xbr="765.85" ybr="424.42" z_order="0">
+    </box>
+    <box label="Peach" source="manual" occluded="0" xtl="989.40" ytl="403.60" xbr="1086.06" ybr="496.40" z_order="0">
+    </box>
+    <box label="Orange" source="manual" occluded="0" xtl="794.27" ytl="246.88" xbr="902.27" ybr="339.73" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="image9.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="726.06" ytl="457.20" xbr="817.01" ybr="557.62" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="image90.jpg" width="1920" height="1080">
+    <box label="Pineapple" source="manual" occluded="0" xtl="828.38" ytl="479.90" xbr="961.01" ybr="601.20" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="image91.jpg" width="1920" height="1080">
+    <box label="Kiwi" source="manual" occluded="0" xtl="720.38" ytl="523.52" xbr="798.06" ybr="612.57" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="image92.jpg" width="1920" height="1080">
+  </image>
+  <image id="115" name="image93.jpg" width="1920" height="1080">
+  </image>
+  <image id="116" name="image94.jpg" width="1920" height="1080">
+    <box label="Green apple" source="manual" occluded="0" xtl="506.27" ytl="459.09" xbr="625.64" ybr="551.94" z_order="0">
+    </box>
+    <box label="Watermelon" source="manual" occluded="0" xtl="1061.40" ytl="603.09" xbr="1201.64" ybr="756.57" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="image95.jpg" width="1920" height="1080">
+    <box label="Watermelon" source="manual" occluded="0" xtl="1002.70" ytl="411.73" xbr="1139.12" ybr="555.73" z_order="0">
+    </box>
+    <box label="Coconut" source="manual" occluded="0" xtl="868.17" ytl="606.88" xbr="987.54" ybr="718.67" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="image96.jpg" width="1920" height="1080">
+    <box label="Lemon" source="manual" occluded="0" xtl="491.12" ytl="582.25" xbr="563.12" ybr="701.62" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="image97.jpg" width="1920" height="1080">
+  </image>
+  <image id="120" name="image98.jpg" width="1920" height="1080">
+  </image>
+  <image id="121" name="image99.jpg" width="1920" height="1080">
+  </image>
+</annotations>
