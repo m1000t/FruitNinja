@@ -8,7 +8,7 @@ import threading
 # Ensure the directory exists
 output_dir = 'RawImages'
 os.makedirs(output_dir, exist_ok=True)
-press = 600
+press = 203
 taking_screenshots = False
 
 def take_screenshot():
