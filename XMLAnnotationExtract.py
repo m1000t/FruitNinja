@@ -2,8 +2,8 @@ import xml.etree.ElementTree as ET
 import csv
 
 # Define the input XML file and output CSV file
-input_xml_file = 'annotations.xml'
-output_csv_file = 'annotations.csv'
+input_xml_file = 'annotations2.xml'
+output_csv_file = 'annotations2.csv'
 
 tree = ET.parse(input_xml_file)
 root = tree.getroot()
